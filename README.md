@@ -10,3 +10,4 @@ Aqui estão reunidos projetos, pesquisas acadêmicas, laboratórios de CTF, estu
 |----------|---------|---------|
 | Análise da Difusão de Malware em Honeypots de Baixa Interatividade | Cybersecurity Research | 2011 |
 | Cronpocalipse | CTF / Linux Privilege Escalation | 2026 |
+| SQL Injection | CTF / SQL Injection  | 2026 |
