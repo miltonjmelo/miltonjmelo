@@ -12,5 +12,5 @@ Aqui estão reunidos projetos, pesquisas acadêmicas, laboratórios de CTF, estu
 | Cronpocalipse | CTF / Linux Privilege Escalation | 2026 |
 | SQL Injection | CTF / SQL Injection  | 2026 |
 | ClearDesk     | CTF / IDOR, API Security, Path Transversal, Access Control, Privilege Escalation | 2026 |
-| AlVault     | Access Control, Privilege Escalation, Command Injection | 2026 |
+| AlVault     | CTF / Access Control, Privilege Escalation, Command Injection | 2026 |
 
