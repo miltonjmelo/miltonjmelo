@@ -13,4 +13,5 @@ Aqui estão reunidos projetos, pesquisas acadêmicas, laboratórios de CTF, estu
 | SQL Injection | CTF / SQL Injection  | 2026 |
 | ClearDesk     | CTF / IDOR, API Security, Path Transversal, Access Control, Privilege Escalation | 2026 |
 | AlVault     | CTF / Access Control, Privilege Escalation, Command Injection | 2026 |
+| Pickle Jar  | CTF / Remote Execution Code, Privilege Escalation, Insecure Deserialization | 2026 |
 
